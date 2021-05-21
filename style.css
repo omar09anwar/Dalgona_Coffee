@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+body{
+    background-color: peachpuff;
+    font-family: 'Pattaya', sans-serif;
+}
+h3{
+    color: brown;
+    text-decoration: underline;
+}
+button{
+    background-color: brown;
+    font-size: 120%;
+    color: white;
+    font-family: 'Pattaya', sans-serif;
+}
